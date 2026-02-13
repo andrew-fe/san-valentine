@@ -6,13 +6,6 @@ Este sitio web interactivo está diseñado para hacer una pregunta muy important
 
 **v1.0**
 
-## 📸 Imagen del proyecto
-Modo Claro ☀️: 
-![Vista previa del proyecto Modo Claro](https://github.com/CarlosRW/San-Valentin/blob/main/img/imgSVClaro.png?raw=true)
--
-Modo Oscuro 🌑: 
-![Vista previa del proyecto Modo Claro](https://github.com/CarlosRW/San-Valentin/blob/main/img/imgSVOscuro.png?raw=true)
--
 ## 🚀 Características Principales
 - **Pregunta Interactiva:** Un botón de "Sí" y un botón de "No" con comportamientos únicos.
   - El botón **"Sí"** muestra una galería de imágenes y un mensaje especial.
