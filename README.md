@@ -30,7 +30,6 @@ Sigue estos pasos para ejecutar el proyecto en tu computadora local:
 - Haz clic en "Sí" para ver una galería de imágenes y un mensaje especial.
 - Intenta hacer clic en "No" para ver cómo se mueve y muestra una imagen divertida.
 - Usa el botón "Modo Oscuro 🌙" para cambiar entre temas claro y oscuro.
-![Vista previa de la galería de imagenes](https://github.com/CarlosRW/San-Valentin/blob/main/img/imgSVGaler%C3%ADa.png?raw=true)
 
 ## 🛠️ Tecnologías utilizadas
 
