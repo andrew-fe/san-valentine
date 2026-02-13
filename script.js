@@ -90,7 +90,7 @@ noButton.addEventListener('click', () => {
         isHoverActive = true;
         // Mostrar imagen y mensaje
         imageContainer.innerHTML = '<img src="https://i.pinimg.com/736x/26/a9/89/26a989b40c21f4abd29323c89a0c43f5.jpg" alt="Hello Kitty sorprendida" style="width: 200px; height: auto; border-radius: 10px;">';
-        response.textContent = "Jaja, no puedes tocar el botón 🤣🫢";
+        response.textContent = "Jaja, no puedes tocar el botón 🤣";
         // Mover el botón una vez después del clic
         moveNoButton();
       }
@@ -100,7 +100,7 @@ noButton.addEventListener('click', () => {
   // Para dispositivos táctiles
   if (isTouchDevice()) {
     imageContainer.innerHTML = '<img src="https://i.pinimg.com/736x/26/a9/89/26a989b40c21f4abd29323c89a0c43f5.jpg" alt="Hello Kitty sorprendida" style="width: 200px; height: auto; border-radius: 10px;">';
-    response.textContent = "Jaja, no puedes tocar el botón 🤣🫢";
+    response.textContent = "Jaja, no puedes tocar el botón 🤣";
     moveNoButton();
   }
 });
@@ -111,7 +111,7 @@ if (!isTouchDevice()) {
     // Solo si ya pasó el primer clic
     if (isHoverActive) {
       imageContainer.innerHTML = '<img src="https://i.pinimg.com/736x/26/a9/89/26a989b40c21f4abd29323c89a0c43f5.jpg" alt="Hello Kitty sorprendida" style="width: 200px; height: auto; border-radius: 10px;">';
-      response.textContent = "Jaja, no puedes tocar el botón 🤣🫢";
+      response.textContent = "Jaja, no puedes tocar el botón 🤣";
       moveNoButton();
     }
   });
