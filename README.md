@@ -14,17 +14,10 @@ Este sitio web interactivo está diseñado para hacer una pregunta muy important
 - **Animaciones:** Transiciones suaves y efectos visuales.
 - **Diseño Responsivo:** Funciona en dispositivos móviles y de escritorio.
 
-## ⚙️ Instalación
-Sigue estos pasos para ejecutar el proyecto en tu computadora local:
 
-1. **Clona el Repositorio:**
-   ```bash
-   git clone https://github.com/CarlosRW/san-valentin.git
-   cd san-valentin
+1. Abre el archivo index.html en tu navegador web.
 
-2. Abre el archivo index.html en tu navegador web.
-
-3. (Opcional) Usar un servidor local: Si prefieres un entorno local más avanzado: Instala un servidor web como "Live Server" en Visual Studio Code (VSCode). Haz clic derecho en el archivo index.html y selecciona "Open with Live Server".
+2. (Opcional) Usar un servidor local: Si prefieres un entorno local más avanzado: Instala un servidor web como "Live Server" en Visual Studio Code (VSCode). Haz clic derecho en el archivo index.html y selecciona "Open with Live Server".
 
 ## 📚 Uso
 - Haz clic en "Sí" para ver una galería de imágenes y un mensaje especial.
